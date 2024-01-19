@@ -3,3 +3,7 @@
 [course page]
 
 - https://www.inflearn.com/course/스프링-db-2
+
+[Detailed link]
+- db2-1 : https://github.com/jaemoon99/spring-db2-1
+- db2-2 : https://github.com/jaemoon99/spring-db2-2
