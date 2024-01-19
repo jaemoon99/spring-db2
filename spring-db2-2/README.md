@@ -3,3 +3,5 @@
 [course page]
 
 - https://www.inflearn.com/course/스프링-db-2
+
+[Section Range](section 9 ~ section 11)
